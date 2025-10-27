@@ -53,49 +53,40 @@ streamlit run app.py
 Then open your browser at http://localhost:8501
 .
 
-🧾 Data Source
+### 🧾 Data Source
 
-The dataset used in this dashboard is the Supermarket Sales Dataset, containing information such as:
+The dataset used in this dashboard is the **Supermarket Sales Dataset**, containing information such as:
 
-Invoice ID
+- **Invoice ID**  
+- **Branch**  
+- **Customer Type**  
+- **Gender**  
+- **Product Line**  
+- **Unit Price**, **Quantity**, **Tax**, **Total**  
+- **Date**, **Time**  
+- **Payment Method**  
+- **Rating**
 
-Branch
-
-Customer type
-
-Gender
-
-Product line
-
-Unit price, Quantity, Tax, Total
-
-Date, Time
-
-Payment method
-
-Rating
-
-You can also upload your own CSV file via the dashboard interface.
-
-🌍 Deployment
+---
+### 🌍 Deployment
 
 This project can be deployed easily using:
 
-Streamlit Cloud
- (recommended)
+- **Streamlit Cloud
+ (recommended)**
 
-Render
+- **Render**
 
-Vercel (via Streamlit wrapper)
+- **Vercel (via Streamlit wrapper)**
 
-Docker
-
-🧑‍💻 Author
+- **Docker**
+---
+### 🧑‍💻 Author
 
 Crispin @crispin046
 
-Data Analyst | Python Developer | Streamlit Enthusiast
-
-📜 License
+Data Scientist & Analyst | Python Developer | Streamlit Enthusiast
+---
+### 📜 License
 
 This project is open-source and available under the MIT License.
