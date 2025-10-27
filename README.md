@@ -7,7 +7,7 @@ An interactive **Streamlit Dashboard** for analyzing supermarket sales data — 
 ## 🚀 Features
 
 - 📊 **Dynamic Data Visualization**: Interactive charts for sales, profit, and product category performance.  
-- 📅 **Monthly Trends**: Explore sales patterns across months (January–December).  
+- 📅 **Monthly Trends**: Explore sales patterns across months .  
 - 📂 **Custom CSV Upload**: Upload your own dataset for instant visualization and insights.  
 - 💡 **KPIs Overview**: Total revenue, average rating, gross margin, and more.  
 - 🧠 **Built with Streamlit + Pandas + Plotly** for fast, interactive analytics.
@@ -18,7 +18,7 @@ An interactive **Streamlit Dashboard** for analyzing supermarket sales data — 
 
 | Tool | Purpose |
 |------|----------|
-| 🐍 **Python 3.8+** | Core programming language |
+| 🐍 **Python 3.11+** | Core programming language |
 | 📊 **Pandas** | Data analysis |
 | 📈 **Plotly / Altair / Matplotlib** | Visualization |
 | 🌐 **Streamlit** | Interactive dashboard interface |
@@ -53,6 +53,8 @@ streamlit run app.py
 Then open your browser at http://localhost:8501
 .
 
+---
+
 ### 🧾 Data Source
 
 The dataset used in this dashboard is the **Supermarket Sales Dataset**, containing information such as:
@@ -82,10 +84,9 @@ This project can be deployed easily using:
 - **Docker**
 ---
 ### 🧑‍💻 Author
-
 Crispin @crispin046
+ |Data Scientist & Analyst | Python Developer | Streamlit Enthusiast
 
-Data Scientist & Analyst | Python Developer | Streamlit Enthusiast
 ---
 ### 📜 License
 
