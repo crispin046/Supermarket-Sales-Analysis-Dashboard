@@ -26,6 +26,13 @@ An interactive **Streamlit Dashboard** for analyzing supermarket sales data — 
 
 ---
 
+## 🚀 Live Demo
+
+Click below to explore the interactive dashboard:  
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://supermarket-sales-analysis-dashboard.streamlit.app/)
+
+> *(No setup needed — just click the badge to explore the dashboard.)*
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
